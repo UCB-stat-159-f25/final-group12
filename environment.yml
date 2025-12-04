@@ -17,3 +17,4 @@ dependencies:
   - beautifulsoup4
   - ipykernel
   - html5lib
+  - pytest

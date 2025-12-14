@@ -1,7 +1,7 @@
 # NBA Player Salary Analysis (2024-2025 Season)
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sSkqmNLf)
-Main Repo:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sSkqmNLf)        
+Main Repo:       
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main)        
 ## Project Description
 This project analyzes the determinants of NBA player salaries using data from the 2024-2025 regular season. We investigate how traditional statistics, advanced metrics, age, and position influence player compensation, with particular attention to the impact of superstar salaries on overall patterns. The analysis combines regularized linear regression with ensemble methods to provide a comprehensive view of salary determinants in professional basketball.
 
@@ -48,11 +48,11 @@ python -m ipykernel install --user --name nba --display-name "IPython - nba"
 ```
 
 4. Feel free to run our notebooks to reproduce our analysis!
-Data Scraping:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=data_scraping.ipynb)
-Feature Engineering:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=feature_engineering.ipynb)
-EDA:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=eda.ipynb)
-Modeling:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=modeling.ipynb)
-Main Results:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=main.ipynb)
+Data Scraping:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=data_scraping.ipynb)           
+Feature Engineering:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=feature_engineering.ipynb)             
+EDA:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=eda.ipynb)                 
+Modeling:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=modeling.ipynb)            
+Main Results:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=main.ipynb)            
 
 ## Testing
 To run tests on our utility functions, navigate to the root directory of the project and execute the following command:

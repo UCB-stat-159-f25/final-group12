@@ -47,12 +47,12 @@ conda activate nba
 python -m ipykernel install --user --name nba --display-name "IPython - nba"
 ```
 
-4. Feel free to run our notebooks to reproduce our analysis!
-Data Scraping:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=data_scraping.ipynb)           
-Feature Engineering:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=feature_engineering.ipynb)             
-EDA:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=eda.ipynb)                 
-Modeling:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=modeling.ipynb)            
-Main Results:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=main.ipynb)            
+4. Feel free to run our notebooks to reproduce our analysis!           
+Data Scraping: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=data_scraping.ipynb)           
+Feature Engineering: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=feature_engineering.ipynb)             
+EDA: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=eda.ipynb)                 
+Modeling: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=modeling.ipynb)            
+Main Results: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group12/main?labpath=main.ipynb)            
 
 ## Testing
 To run tests on our utility functions, navigate to the root directory of the project and execute the following command:

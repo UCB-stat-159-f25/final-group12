@@ -4,7 +4,7 @@ SHELL = /bin/bash
 .PHONY : env html clean
 
 env:
-	conda env update -f environment.yml --prune
+	conda env update -n nba -f environment.yml --prune
 
 html :
 	myst build --html

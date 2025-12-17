@@ -60,4 +60,4 @@ To run tests on our utility functions, navigate to the root directory of the pro
 	PYTHONPATH=./ pytest
 
 ## Overall Results
-For overall information about the analysis and results, please refer to the main.ipynb notebook.
+For overall information about the analysis and results, please refer to pdf_builds/main.pdf

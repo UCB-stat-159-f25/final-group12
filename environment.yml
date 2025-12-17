@@ -5,7 +5,7 @@ channels:
   - defaults
 
 dependencies:
-  - python=3.9
+  - python=3.12
   - numpy
   - pandas
   - scipy
@@ -19,3 +19,8 @@ dependencies:
   - html5lib
   - pytest
   - lxml
+  - mystmd
+  - jupyterlab
+  - nbformat
+  - nbclient
+  - nbconvert

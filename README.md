@@ -1,3 +1,4 @@
+# DOI
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17961043.svg)](https://doi.org/10.5281/zenodo.17961043)
 
 # NBA Player Salary Analysis (2024-2025 Season)
